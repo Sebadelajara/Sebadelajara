@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" alt="Programming languages" /></a></td>
-      <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Frontend" /></a></td>
+      <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" alt="Frontend" /></a></td>
       <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django" alt="Backend" /></a></td>
       <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="RDBMS" /></a></td>
     </tr>
